@@ -565,6 +565,8 @@ footer nav ul li a:hover {
 
   .header-text {
     padding: 0.4rem 0.4rem 0rem 0rem;
+    box-sizing: border-box;
+    font-size: small;
   }
 
   .hero {
@@ -578,7 +580,7 @@ footer nav ul li a:hover {
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .btn {
@@ -597,6 +599,10 @@ footer nav ul li a:hover {
     overflow-x: hidden;
   }
 
+  .header-text {
+    box-sizing: border-box;
+  }
+
   .hero {
     height: auto;
     padding: 2rem;
@@ -607,7 +613,7 @@ footer nav ul li a:hover {
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
   }
 
   .btn {
